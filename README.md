@@ -2,6 +2,7 @@
 
 ##Inteligência Artificial e VBA: Dominando o Excel do Futuro
 
+https://github.com/ArthurKesc/Ebook_DIO_AK_24/blob/main/Intelig%C3%AAncia%20Artificial%20e%20VBA%20Dominando%20o%20Excel%20do%20Futuro.pdf
 
 Ebook IA ate no Excel - Desafio BotCamp Santander DIO
 
